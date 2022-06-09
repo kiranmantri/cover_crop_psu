@@ -36,10 +36,27 @@
 
 ---
 
+
+# Abundance Maps (randomized proportions)
+
+(clover, canola, triticale, vetch, soil)
+
+<img src="figs/abundances_gaussianfields_spheric_5em_55x55_001.png" width="400"><br>
+<img src="figs/abundances_gaussianfields_spheric_5em_55x55_002.png" width="400"><br>
+<img src="figs/abundances_gaussianfields_spheric_5em_55x55_003.png" width="400"><br>
+<img src="figs/abundances_gaussianfields_spheric_5em_55x55_004.png" width="400"><br>
+<img src="figs/abundances_gaussianfields_spheric_5em_55x55_005.png" width="400"><br>
+<img src="figs/abundances_gaussianfields_spheric_5em_55x55_006.png" width="400"><br>
+<img src="figs/abundances_gaussianfields_spheric_5em_55x55_007.png" width="400"><br>
+<img src="figs/abundances_gaussianfields_spheric_5em_55x55_008.png" width="400"><br>
+<img src="figs/abundances_gaussianfields_spheric_5em_55x55_009.png" width="400"><br>
+<img src="figs/abundances_gaussianfields_spheric_5em_55x55_010.png" width="400"><br>
+
 # Synthetic Datacubes
 
 These synthetic HSI can be used for training.
 
+The top layer is the average over all bands. It is an additional image overlaid on the datacube just for visualization.
 
 <img src="figs/datacube_000.png" width="200">
 <img src="figs/datacube_001.png" width="200">
